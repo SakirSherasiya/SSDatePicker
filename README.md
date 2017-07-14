@@ -13,8 +13,7 @@ For show datepicker in your viewController just type below code:
     //CompletionHandler Of DatePicker            
   }
   
-  ![Alt text](https://github.com/SakirSherasiya/SSDatePicker/blob/master/ScreenShot/Simulator%20Screen%20Shot%2014-Jul-2017,%2010.14.07%20AM.png  "screenShot" =100x20)
-  <img src="https://github.com/SakirSherasiya/SSDatePicker/blob/master/ScreenShot/Simulator%20Screen%20Shot%2014-Jul-2017,%2010.14.07%20AM.png" width="48" height ="100">
+  <img src="https://github.com/SakirSherasiya/SSDatePicker/blob/master/ScreenShot/Simulator%20Screen%20Shot%2014-Jul-2017,%2010.14.07%20AM.png" width="768" height ="1024">
 
 
 # set Format of SSDatePicker
