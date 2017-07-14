@@ -120,7 +120,7 @@ extension SSPicker{
     
     func CheckFormat() -> String {
         var strFormat = String()
-        for i in 0...2 {
+        for i in 0...Format.count-1 {
             if Format[i] == 0 {
                 strFormat = strFormat + "dd"
             }else if Format[i] == 1{

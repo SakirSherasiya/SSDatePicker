@@ -19,8 +19,8 @@ class ViewController: UIViewController {
         ui.backgroundColor = UIColor.yellow
         view.addSubview(ui)
         
-        SSDatePickerView.shared.format = "yyyy-dd-MMM"
-        
+        SSDatePickerView.shared.format = "yyyy-MMM-dd"
+        SSDatePickerView.shared.defaultDate = Date()
         SSDatePickerView.shared.showDatePicker(superc: self) { (date, str) in
             
         }
