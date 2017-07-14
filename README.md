@@ -13,7 +13,7 @@ For show datepicker in your viewController just type below code:
     //CompletionHandler Of DatePicker            
   }
   
-  <img src="https://github.com/SakirSherasiya/SSDatePicker/blob/master/ScreenShot/Simulator%20Screen%20Shot%2014-Jul-2017,%2010.14.07%20AM.png" width="300" height ="475">
+  <img src="https://github.com/SakirSherasiya/SSDatePicker/blob/master/ScreenShot/Simulator%20Screen%20Shot%2014-Jul-2017,%2010.14.07%20AM.png" width="280" height ="475">
 
 
 # set Format of SSDatePicker
@@ -26,14 +26,14 @@ First set format of datePicker then execute SSDatepicker show method
   
   "dd-MM-yyyy" , "dd-MMM-yyyy" in order which one you like.
  
-  <img src="https://github.com/SakirSherasiya/SSDatePicker/blob/master/ScreenShot/Simulator%20Screen%20Shot%2014-Jul-2017,%2010.10.50%20AM.png" width="352" height ="652">
+  <img src="https://github.com/SakirSherasiya/SSDatePicker/blob/master/ScreenShot/Simulator%20Screen%20Shot%2014-Jul-2017,%2010.10.50%20AM.png" width="280" height ="475">
   
 # set Default date in datePicker
 
 Firsr set default date in datePicker then execute SSDatePicker show method
   SSDatePickerView.shared.defaultDate = dateObject
 
-  <img src="https://github.com/SakirSherasiya/SSDatePicker/blob/master/ScreenShot/Simulator%20Screen%20Shot%2014-Jul-2017,%2010.14.07%20AM.png" width="352" height ="652">
+  <img src="https://github.com/SakirSherasiya/SSDatePicker/blob/master/ScreenShot/Simulator%20Screen%20Shot%2014-Jul-2017,%2010.14.07%20AM.png" width="280" height ="475">
 
 
   
